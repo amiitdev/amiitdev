@@ -1,108 +1,126 @@
 <h1 align="center">
-  👋 Hello! I'm <span style="background: linear-gradient(45deg, #6a11cb 0%, #2575fc 50%, #ff6b6b 100%); -webkit-background-clip: text; color: transparent; font-weight: 800; text-shadow: 0 2px 4px rgba(0,0,0,0.1);">Amit Kumar</span>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs/master/Greetings/Hello.gif" width="30px">
+  <span style="background: linear-gradient(45deg, #6a11cb 0%, #2575fc 50%, #ff6b6b 100%); -webkit-background-clip: text; color: transparent; font-weight: 800; font-size: 1.2em;">
+    Amit Kumar
+  </span>
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=6A11CB&center=true&vCenter=true&width=600&lines=Backend-Focused+Developer;System+Architect;Production+Wizard" alt="Typewriter Effect" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;DevOps+%26+Cloud+Specialist;Distributed+Systems+Wizard;Building+Next-Gen+Infrastructures" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amiitdev&label=Profile%20Views&color=6a11cb&style=for-the-badge&labelColor=2575fc" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/amiitdev?style=for-the-badge&color=6a11cb&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/amiitdev?style=for-the-badge&color=2575fc&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/badge/Stack-Full--Stack%20%7C%20DevOps-2575fc?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Focus-High%20Availability-6a11cb?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Status-Building+Future-ff6b6b?style=for-the-badge&logo=docker" />
 </p>
 
 ---
 
-## ✨ About Me
+## ⚡ At a Glance
+I bridge the gap between pixel-perfect user interfaces and ultra-scalable backend infrastructures. From **React/Next.js** state management to **Kubernetes** orchestration, I build software that scales horizontally and performs globally.
 
-🎯 **Mission:** Building robust, scalable backend systems that power millions of requests  
-💼 **Role:** Backend Developer specializing in microservices & cloud architecture  
-🧠 **Mindset:** "If it works in production, it should work anywhere"  
-🚀 **Currently:** Exploring distributed systems & high-performance computing  
-
----
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/amit1924" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/amiitdev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:amitkumar.devnode@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+- 🔭 **Working on:** High-concurrency payment gateways and edge-computing micro-frontends.
+- ⚙️ **System Design:** Obsessed with Saga Patterns, CQRS, and Event-Sourcing.
+- ☁️ **Infrastructure:** I treat my servers like cattle, not pets—fully immutable and automated via Terraform.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ The Tech Ecosystem
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>Frontend Mastery</strong></td>
+    <td align="center" width="33%"><strong>Backend Architecture</strong></td>
+    <td align="center" width="33%"><strong>DevOps & Cloud</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,threejs" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,go,py,graphql" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,githubactions" />
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Database & Message Brokers
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,rabbitmq,elasticsearch" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏗️ Architectural Case Studies
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🌩️ Scalable Microservices</h3>
+      <em>Event-driven ecosystem for high-traffic commerce.</em>
+      <ul>
+        <li><strong>Stack:</strong> NestJS, Kafka, Redis, K8s.</li>
+        <li><strong>Innovation:</strong> Implemented Saga Pattern for distributed transactions.</li>
+        <li><strong>Result:</strong> 40% reduction in database contention.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🔐 IAM Service (OAuth2/OIDC)</h3>
+      <em>Enterprise-grade Identity Management.</em>
+      <ul>
+        <li><strong>Stack:</strong> Node.js, TypeScript, Docker.</li>
+        <li><strong>Innovation:</strong> Zero-trust architecture with RBAC/ABAC.</li>
+        <li><strong>Result:</strong> Secure auth for 100k+ concurrent users.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 System Metrics & Output
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiitdev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6a11cb&icon_color=2575fc" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiitdev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6a11cb&text_color=ffffff" height="180" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiitdev&theme=react-dark&bg_color=0d1117&hide_border=true&color=6a11cb" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiitdev&theme=radical&hide_border=true&background=0d1117&stroke=6a11cb&ring=2575fc&fire=ff6b6b&currStreakLabel=6a11cb" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amiitdev&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiitdev&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amiitdev&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🗺️ 2026 Technical Roadmap
 
-### 🔥 [Microservices E-commerce Platform](https://github.com/amiitdev/ecommerce-microservices)
-> Scalable e-commerce backend with 10+ microservices  
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-
-### 🚀 [Real-time Chat Application](https://github.com/amiitdev/realtime-chat)
-> WebSocket-based chat with Redis pub/sub  
-
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=socket.io&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-
-### 📦 [Dockerized CI/CD Pipeline](https://github.com/amiitdev/docker-ci-cd)
-> Complete CI/CD pipeline with Jenkins & Docker  
-
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+- [ ] **Q1: Performance Backend & Systems**
+  - Master **Rust** for performance-critical microservices and WebAssembly (WASM) modules.
+- [ ] **Q2: Advanced Frontend Architecture**
+  - Deep dive into **Micro-Frontends** and Server Components to optimize LCP for enterprise apps.
+- [ ] **Q3: Cloud-Native & Observability**
+  - Implement **eBPF** for network tracing and master **Service Mesh (Istio)**.
+- [ ] **Q4: Infrastructure as Code (IaC)**
+  - Design a **Custom Load Balancer** and automate global multi-region deployments with **Crossplane**.
 
 ---
 
-## 🎮 Fun & Inspiration
+## 🎮 The Grind
 <p align="center">
-  <img src="https://c.tenor.com/x2zXwIQEmX8AAAAC/coding.gif" width="200" style="border-radius: 10px; margin: 10px;" />
-  <img src="https://c.tenor.com/1sjV9CKmWz8AAAAC/computer-programmer.gif" width="200" style="border-radius: 10px; margin: 10px;" />
-  <img src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="200" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/amiitdev/amiitdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-> "First, make it work. Then, make it right. Finally, make it fast." - Kent Beck
 
+---
+
+## 🤝 Connect with the Architect
+<p align="left">
+  <a href="https://linkedin.com/in/amit1924" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:amitkumar.devnode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/amiitdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="right">
+  <i>"I don't just write code; I design systems that outlive the code."</i>
+</p>
