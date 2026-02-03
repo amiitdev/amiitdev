@@ -1,7 +1,10 @@
 <h1 align="center">
   Hi 👋, I'm <span style="background: linear-gradient(to right, #6a11cb, #2575fc); -webkit-background-clip: text; color: transparent;">Amit Kumar</span>
 </h1>
-<h3 align="center" style="color: #555;">Backend-Focused Developer | Node.js, Express & MongoDB | Docker & Kubernetes</h3>
+
+<p align="center">
+  <img src="https://c.tenor.com/wYwH3T9Pp5MAAAAC/typewriter.gif" alt="Typewriter Effect" width="500"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amiitdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
