@@ -1,71 +1,55 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-  Hi, I'm Amit Kumar
-</h1>
+<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
+<h3 align="center" style="color: #6a0dad;">Backend-Focused Developer | Node.js, Express & MongoDB | Docker & Kubernetes</h3>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E8BFF&center=true&vCenter=true&width=600&lines=Backend+Developer+;Systems+Architecture+Enthusiast;Scalable+Web+Applications;Cloud+Native+Solutions" alt="Typing Animation" />
-</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amiitdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=amiitdev&label=Profile%20Views&color=2E8BFF&style=for-the-badge)
-  ![GitHub Followers](https://img.shields.io/github/followers/amiitdev?label=Followers&style=for-the-badge&color=2E8BFF)
-  ![GitHub Stars](https://img.shields.io/github/stars/amiitdev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=2E8BFF)
-  
-</div>
+---
 
-## 🔥 About Me
+### 👨‍💻 About Me
+- Passionate backend developer building **scalable web applications** and real-world production systems.  
+- 💬 Ask me about **Node.js, Express, MongoDB, Docker, Kubernetes, REST APIs**  
+- 📫 Reach me at **[amitkumar.devnode@gmail.com](mailto:amitkumar.devnode@gmail.com)**  
+- 📄 Check my experience: [LinkedIn](https://www.linkedin.com/in/amit1924)  
+- ⚡ Fun fact: I enjoy understanding **how real production systems work behind the scenes**  
 
-<div align="center">
-  
-  ```javascript
-  const amit = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    backend: ["Node.js", "Express", "Flask", "Spring Boot"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-    devops: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-    architecture: ["Microservices", "REST APIs", "System Design"],
-    currentFocus: "Building scalable backend systems",
-    funFact: "I enjoy understanding how real production systems work behind the scenes"
-  };
-</div>
-🛠️ Tech Stack
-Backend Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,flask,spring,maven,graphql" /> </p>
-Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma,sequelize" /> </p>
-DevOps & Cloud
-<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,githubactions,jenkins,linux" /> </p>
-Frontend & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,postman" /> </p>
-📈 GitHub Analytics
-<div align="center"> <a href="https://github.com/amiitdev"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amiitdev&show_icons=true&theme=dark&bg_color=0d1117&title_color=2E8BFF&icon_color=2E8BFF&border_color=30363d&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiitdev&layout=compact&theme=dark&bg_color=0d1117&title_color=2E8BFF&border_color=30363d&langs_count=8" /> </a>
+---
 
-https://github-readme-streak-stats.herokuapp.com/?user=amiitdev&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=2E8BFF&fire=2E8BFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2E8BFF&sideLabels=ffffff&dates=8b949e
-</div>
-📂 Featured Projects
-<div align="center">
-🚀 Project	📝 Description	🛠️ Tech Stack
-E-Commerce API	Scalable microservices architecture	Node.js, MongoDB, Redis, Docker
-Real-time Chat	WebSocket-based chat application	Express, Socket.io, React
-CI/CD Pipeline	Automated deployment pipeline	Docker, Kubernetes, GitHub Actions
-</div>
-📫 Connect With Me
-<div align="center"> <a href="https://linkedin.com/in/amit1924" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:amitkumar.devnode@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/amiitdev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.leetcode.com/yourprofile" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /> </a></div>
-🎯 Currently Learning
-<div align="center">
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/amit1924" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" /></a>
+  <a href="https://github.com/amiitdev" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40" /></a>
+  <a href="mailto:amitkumar.devnode@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Gmail" width="40" height="40" /></a>
+</p>
 
-https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
-https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white
-https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white
-https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
-</div><div align="center">
+---
 
-https://profile-counter.glitch.me/amiitdev/count.svg
+### 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+</p>
 
-"First, solve the problem. Then, write the code." - John Johnson
+---
 
-⭐ Feel free to star my repositories if you find them useful! ⭐
-</div> ```
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amiitdev&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiitdev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiitdev" alt="GitHub Streak" />
+</p>
