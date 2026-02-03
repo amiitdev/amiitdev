@@ -1,28 +1,71 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A backend-focused developer building scalable web applications</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+  Hi, I'm Amit Kumar
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amiitdev&label=Profile%20views&color=0e75b6&style=flat" alt="amiitdev" /> </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E8BFF&center=true&vCenter=true&width=600&lines=Backend+Developer+;Systems+Architecture+Enthusiast;Scalable+Web+Applications;Cloud+Native+Solutions" alt="Typing Animation" />
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/amiitdev](https://github.com/amiitdev)
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=amiitdev&label=Profile%20Views&color=2E8BFF&style=for-the-badge)
+  ![GitHub Followers](https://img.shields.io/github/followers/amiitdev?label=Followers&style=for-the-badge&color=2E8BFF)
+  ![GitHub Stars](https://img.shields.io/github/stars/amiitdev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=2E8BFF)
+  
+</div>
 
-- 💬 Ask me about **Node.js, Express, MongoDB, Docker, Kubernetes, REST APIs**
+## 🔥 About Me
 
-- 📫 How to reach me **amitkumar.devnode@gmail.com**
+<div align="center">
+  
+  ```javascript
+  const amit = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    backend: ["Node.js", "Express", "Flask", "Spring Boot"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+    devops: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+    architecture: ["Microservices", "REST APIs", "System Design"],
+    currentFocus: "Building scalable backend systems",
+    funFact: "I enjoy understanding how real production systems work behind the scenes"
+  };
+</div>
+🛠️ Tech Stack
+Backend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,flask,spring,maven,graphql" /> </p>
+Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma,sequelize" /> </p>
+DevOps & Cloud
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,githubactions,jenkins,linux" /> </p>
+Frontend & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,postman" /> </p>
+📈 GitHub Analytics
+<div align="center"> <a href="https://github.com/amiitdev"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amiitdev&show_icons=true&theme=dark&bg_color=0d1117&title_color=2E8BFF&icon_color=2E8BFF&border_color=30363d&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiitdev&layout=compact&theme=dark&bg_color=0d1117&title_color=2E8BFF&border_color=30363d&langs_count=8" /> </a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/amit1924](https://www.linkedin.com/in/amit1924)
+https://github-readme-streak-stats.herokuapp.com/?user=amiitdev&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=2E8BFF&fire=2E8BFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2E8BFF&sideLabels=ffffff&dates=8b949e
+</div>
+📂 Featured Projects
+<div align="center">
+🚀 Project	📝 Description	🛠️ Tech Stack
+E-Commerce API	Scalable microservices architecture	Node.js, MongoDB, Redis, Docker
+Real-time Chat	WebSocket-based chat application	Express, Socket.io, React
+CI/CD Pipeline	Automated deployment pipeline	Docker, Kubernetes, GitHub Actions
+</div>
+📫 Connect With Me
+<div align="center"> <a href="https://linkedin.com/in/amit1924" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:amitkumar.devnode@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/amiitdev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.leetcode.com/yourprofile" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /> </a></div>
+🎯 Currently Learning
+<div align="center">
 
-- ⚡ Fun fact **I enjoy understanding how real production systems work behind the scenes**
+https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white
+https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white
+https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
+</div><div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amit1924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit1924" height="30" width="40" /></a>
-</p>
+https://profile-counter.glitch.me/amiitdev/count.svg
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+"First, solve the problem. Then, write the code." - John Johnson
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiitdev&show_icons=true&locale=en&layout=compact" alt="amiitdev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiitdev&show_icons=true&locale=en" alt="amiitdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiitdev&" alt="amiitdev" /></p>
+⭐ Feel free to star my repositories if you find them useful! ⭐
+</div> ```
