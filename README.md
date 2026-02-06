@@ -6,30 +6,28 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Backend+Engineer;Docker+%26+CI%2FCD+Enthusiast;Containerized+Application+Builder;Linux+%26+DevOps+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=6A11CB&center=true&vCenter=true&width=700&lines=Backend+%26+DevOps+Engineer;Kubernetes+%7C+Docker+%7C+CI%2FCD;Production-Ready+Deployment+Architectures;Full-Stack+Containerized+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-2575fc?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-6a11cb?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Learning-Kubernetes-ff6b6b?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Infrastructure-2575fc?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Containers-Docker-6a11cb?style=for-the-badge&logo=docker" />
 </p>
-
 
 ---
 
 ## ⚡ At a Glance
 
-I build production-style full-stack applications with a strong focus on
-backend architecture and containerized deployment workflows. From designing
-secure REST APIs to implementing Docker-based CI/CD pipelines, I focus on
-writing clean, reliable, and scalable code.
+I design and deploy production-style full-stack applications with a strong emphasis on backend engineering and infrastructure automation.
 
-- 🔭 **Currently building:** Containerized full-stack applications with automated CI/CD pipelines.
-- ⚙️ **Engineering Focus:** REST API design, authentication systems, reverse proxy architecture, and container networking.
-- 🐳 **Infrastructure Practice:** Docker multi-stage builds, Docker Compose orchestration, GitHub Actions automation, and foundational Kubernetes concepts.
-- 🧠 **Mindset:** Debugging across application, container, and Linux layers with a production-oriented approach.
+My work focuses on building scalable REST APIs, containerizing applications, implementing CI/CD pipelines, and orchestrating services using Kubernetes with real-world deployment patterns.
 
+- 🔭 **Currently building:** Kubernetes-based full-stack deployments with Ingress routing and rolling updates.
+- ⚙️ **Core Focus:** REST API design, authentication, reverse proxy architecture, service discovery, and container networking.
+- ☸️ **Infrastructure Practice:** Kubernetes Deployments, Services, Ingress, Secrets, health probes, resource limits, and multi-replica scaling.
+- 🔄 **CI/CD Automation:** Docker image build pipelines with GitHub Actions → Docker Hub publishing.
+- 🧠 **Mindset:** Debugging across application, container, networking, and cluster layers with production-level reasoning.
 
 ---
 
@@ -43,7 +41,7 @@ writing clean, reliable, and scalable code.
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
+      <img src="https://skillicons.dev/icons?i=react,js,html,css" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
@@ -54,12 +52,6 @@ writing clean, reliable, and scalable code.
   </tr>
 </table>
 
-
-### 🗄️ Database & Message Brokers
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,rabbitmq,elasticsearch" />
-</p>
-
 ---
 
 ## 🏗️ Architectural Case Studies
@@ -67,32 +59,31 @@ writing clean, reliable, and scalable code.
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3>🐳 Containerized Full-Stack Deployment</h3>
-      <em>Production-style Docker architecture for e-commerce application.</em>
+      <h3>☸ Kubernetes-Orchestrated Full-Stack Deployment</h3>
+      <em>Production-style cluster architecture using Minikube.</em>
       <ul>
-        <li><strong>Stack:</strong> Node.js, React (Vite), MongoDB, Docker, Nginx.</li>
-        <li><strong>Architecture:</strong> Multi-stage Docker builds with isolated backend container.</li>
-        <li><strong>Implementation:</strong> Nginx reverse proxy routing <code>/api</code> internally to backend service.</li>
-        <li><strong>Outcome:</strong> Eliminated CORS issues and ensured secure service-to-service communication.</li>
+        <li><strong>Components:</strong> Deployments, ClusterIP Services, Ingress, Secrets.</li>
+        <li><strong>Design:</strong> Multi-replica backend with readiness & liveness probes.</li>
+        <li><strong>Routing:</strong> Domain-based access via Ingress (<code>shopify.local</code>).</li>
+        <li><strong>Outcome:</strong> Zero-downtime rolling updates with internal service discovery.</li>
       </ul>
     </td>
     <td width="50%">
-      <h3>🚀 CI/CD Image Automation</h3>
-      <em>Automated container build and publishing pipeline.</em>
+      <h3>🚀 Automated Docker CI/CD Pipeline</h3>
+      <em>Reproducible image builds with GitHub Actions.</em>
       <ul>
         <li><strong>Stack:</strong> GitHub Actions, Docker Hub.</li>
-        <li><strong>Implementation:</strong> Automated build and push of frontend & backend images on every push to master.</li>
-        <li><strong>Design:</strong> Build-time environment injection using Docker ARG for production-safe configuration.</li>
-        <li><strong>Outcome:</strong> Reproducible, versioned images ready for deployment without manual build steps.</li>
+        <li><strong>Implementation:</strong> Automated build & push of frontend/backend images on every push.</li>
+        <li><strong>Security:</strong> No secrets embedded inside images.</li>
+        <li><strong>Outcome:</strong> Deployment-ready images with version consistency.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-
 ---
 
-## 📈 System Metrics & Output
+## 📈 System Metrics & Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiitdev&theme=react-dark&bg_color=0d1117&hide_border=true&color=6a11cb" width="100%" />
@@ -107,26 +98,18 @@ writing clean, reliable, and scalable code.
 
 ## 🗺️ 2026 Technical Roadmap
 
-- [ ] **Q1: Backend Depth**
-  - Strengthen system design fundamentals (caching, indexing, API optimization).
-  - Implement rate limiting and structured logging in backend services.
+- [ ] **Advanced Kubernetes**
+  - Implement HPA (Horizontal Pod Autoscaler)
+  - Deploy using Helm charts
+  - Explore StatefulSets
 
-- [ ] **Q2: Kubernetes Practical Deployment**
-  - Deploy full-stack app to a local Kubernetes cluster (Minikube/Kind).
-  - Implement rolling updates and horizontal scaling.
+- [ ] **Cloud Deployment**
+  - Deploy Kubernetes workloads on AWS EKS or GKE
+  - Configure HTTPS using Ingress + cert-manager
 
-- [ ] **Q3: Cloud Deployment Basics**
-  - Deploy Dockerized application to a cloud provider (AWS/Oracle/Render).
-  - Configure domain + HTTPS using reverse proxy.
-
-- [ ] **Q4: DevOps Observability**
-  - Integrate basic monitoring (Prometheus/Grafana).
-  - Implement centralized logging and health-based restarts.
-
-## 🎮 The Grind
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amiitdev/amiitdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+- [ ] **Observability**
+  - Integrate Prometheus & Grafana
+  - Structured logging & centralized monitoring
 
 ---
 
@@ -145,5 +128,5 @@ writing clean, reliable, and scalable code.
 </p>
 
 <p align="right">
-  <i>"Focused on building reliable backend systems and clean deployment workflows."</i>
+  <i>"Building scalable backend systems and production-ready deployment pipelines."</i>
 </p>
