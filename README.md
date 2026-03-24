@@ -1,18 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | Backend & DevOps Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amit%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<!-- ===================== TYPING ===================== -->
 
 <p align="center">
-  <a href="https://amiitdev.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://www.linkedin.com/in/amit1924" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:amitkumar.devnode@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;⚙️+Backend+Focused;☸️+Learning+DevOps+%26+Kubernetes;💡+Building+Scalable+Applications" />
 </p>
 
 ---
@@ -21,13 +14,10 @@
 
 ## ⚡ About Me
 
-I’m a **Full Stack Developer** with strong expertise in **backend engineering and DevOps practices**.  
-I build **scalable, production-ready applications** and focus on how systems behave in real-world environments.
-
-- 🔭 Currently working on: **Full-stack apps with Kubernetes deployments**
-- ⚙️ Focus: **Backend systems, API design, system architecture**
-- 🧠 Thinking in: **Scalability, reliability, performance**
-- 🛠️ Approach: **Build → Containerize → Automate → Deploy → Scale**
+- 🚀 Full Stack Developer with strong **backend focus**
+- ⚙️ Building **real-world scalable applications**
+- ☸️ Learning and applying **DevOps fundamentals**
+- 🧠 Focused on **clean architecture & system design**
 
 ---
 
@@ -35,99 +25,61 @@ I build **scalable, production-ready applications** and focus on how systems beh
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,mysql,docker,kubernetes,git,linux" />
+</p>
+
+---
+
+<!-- ===================== CORE SKILLS ===================== -->
+
+## ⚙️ Core Skills
+
+### 💻 Backend Development
+- REST API design
+- Authentication (JWT, sessions)
+- Database design (MongoDB, MySQL)
+- Error handling & validation
+
+### 🌐 Frontend
 - React.js
-- Tailwind CSS
-- Zustand
-- Responsive UI Design
+- State management (Zustand)
+- Responsive UI with Tailwind
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- REST API Design
-- Authentication (JWT, Sessions)
-
-### 🗄️ Database
-- MongoDB
-- MySQL
-
-### ⚡ DevOps & Infrastructure
-- Docker (Containerization)
-- Kubernetes (Deployments, Services, Ingress)
-- GitHub Actions (CI/CD)
-- Nginx (Reverse Proxy)
-- Linux & Networking Basics
+### 🐳 DevOps (Basics)
+- Docker (containerization)
+- Kubernetes (basic deployments, services)
+- GitHub Actions (basic CI/CD)
+- Nginx (reverse proxy basics)
 
 ---
 
-<!-- ===================== WHAT I BUILD ===================== -->
+<!-- ===================== SYSTEM DESIGN ===================== -->
 
-## 🏗️ What I Build
+## 🧠 System Thinking
 
-### 🚀 Scalable Backend Systems
-- Clean and structured REST APIs  
-- Authentication & authorization systems  
-- Production-level error handling  
+<pre>
+Client → Server → Database
+        ↓
+     Cache
+        ↓
+   Background Jobs
+</pre>
 
-### ☸️ Kubernetes-Based Deployments
-- Multi-container full-stack apps  
-- Internal service communication  
-- Rolling updates & scaling  
-
-### 🔄 CI/CD Pipelines
-- Automated Docker builds  
-- GitHub Actions workflows  
-- Deployment-ready pipelines  
+- Understanding request flow  
+- Basic caching concepts  
+- Simple scalable patterns  
 
 ---
 
-<!-- ===================== FEATURED PROJECT ===================== -->
+<!-- ===================== PROJECTS ===================== -->
 
-## 📌 Featured Project
+## 🚀 Projects
 
-### 🛒 Shopify Docker (Full Stack + DevOps)
-
-> Production-style e-commerce system built with DevOps mindset
-
-**Key Highlights:**
-- Dockerized frontend & backend
-- Kubernetes deployment (Minikube)
-- Nginx reverse proxy
-- Service discovery & internal networking
-- Health checks (readiness & liveness probes)
-- Rolling updates with zero downtime
-
----
-
-<!-- ===================== MINDSET ===================== -->
-
-## 🧠 Engineering Mindset
-
-I don’t just write code — I design systems.
-
-- Debugging across **app, container, and cluster layers**
-- Understanding **how things work internally**
-- Building with **production-first thinking**
-- Writing code that is **deployable, scalable, and maintainable**
-
----
-
-<!-- ===================== ROADMAP ===================== -->
-
-## 🗺️ 2026 Roadmap
-
-### ☸️ Kubernetes Advanced
-- Horizontal Pod Autoscaler (HPA)
-- Helm Charts
-- StatefulSets
-
-### ☁️ Cloud
-- AWS (EKS) / GCP (GKE)
-- HTTPS with Ingress + cert-manager
-
-### 📊 Observability
-- Prometheus & Grafana
-- Centralized logging
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiitdev&repo=chatify&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiitdev&repo=devops-auth-app&theme=tokyonight" />
+</p>
 
 ---
 
@@ -136,22 +88,55 @@ I don’t just write code — I design systems.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiitdev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiitdev&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amiitdev&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiitdev&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-<!-- ===================== QUOTE ===================== -->
+<!-- ===================== GRAPH ===================== -->
 
-## 💡 Philosophy
+## 📊 Activity
 
-> "Build systems that scale, not just apps that run."
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiitdev&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- ===================== ROADMAP ===================== -->
+
+## 🗺️ Learning Roadmap
+
+- ☸️ Kubernetes (deployments, scaling basics)
+- ☁️ Cloud basics (AWS / GCP)
+- 🔄 CI/CD pipelines
+- 📊 Monitoring & logging basics
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amit1924">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:amitkumar.devnode@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://amiitdev.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 ---
 
 <!-- ===================== FOOTER ===================== -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
 <p align="center">
-  ⭐ From <a href="https://github.com/amiitdev">amiitdev</a>
+  💡 <i>"Consistently learning and building better systems."</i>
 </p>
