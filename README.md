@@ -34,11 +34,8 @@
 </p>
 
 ---
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiitdev&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=2c5364&hide=issues&card_width=380" width="380" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiitdev&hide_border=true&theme=dark&background=0D1117&stroke=58A6FF&ring=2c5364&fire=58A6FF&card_width=380" width="380" />
-</p>
+### 📊 Core language used
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiitdev&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&card_width=780" width="780" />
