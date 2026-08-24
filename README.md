@@ -97,7 +97,7 @@ Client → Server → Database
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-one-theta.vercel.app/?username=amiitdev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="100%" />
+  <img src="https://github-profile-trophy-one-theta.vercel.app/?username=amiitdev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&v=2" width="100%" />
 </p>
 
 ---
