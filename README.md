@@ -39,7 +39,7 @@
 ### 📊 Core Languages Used
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amiitdev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&card_width=780" width="780" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amiitdev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&card_width=780" width="780" />
 </p>
 
 ---
@@ -85,10 +85,10 @@ Client → Server → Database
 
 <p align="center">
   <a href="https://github.com/amiitdev/chatify">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amiitdev&repo=chatify&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=amiitdev&repo=chatify&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/amiitdev/devops-auth-app">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amiitdev&repo=devops-auth-app&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=amiitdev&repo=devops-auth-app&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -105,7 +105,7 @@ Client → Server → Database
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amiitdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=amiitdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7" />
   <img height="165" src="https://streak-stats.demolab.com/?user=amiitdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=7AA2F7&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7" />
 </p>
 
